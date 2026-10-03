@@ -1,1 +1,1 @@
-web: python 5.py
+web: python t5.py
